@@ -286,4 +286,5 @@ information.
 [license]: https://github.com/ramsey/uuid-doctrine/blob/master/LICENSE
 [build]: https://travis-ci.org/ramsey/uuid-doctrine
 [coverage]: https://coveralls.io/r/ramsey/uuid-doctrine?branch=master
+
 [downloads]: https://packagist.org/packages/ramsey/uuid-doctrine
